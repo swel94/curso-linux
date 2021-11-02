@@ -1,4 +1,5 @@
 # Manejo de Sistema Operativo Linux 
+
 *Este curso es el Técnico en Informatica de INFOTEP - Noviembre 2021*
 
 ###### Modulos:
