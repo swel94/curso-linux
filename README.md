@@ -1,10 +1,11 @@
-# Repositorio del Curso de Linux 
----
-Creado por **Sandro Encarnacion**
+# Manejo de Sistema Operativo Linux 
+*Este curso es el Técnico en Informatica de INFOTEP - Noviembre 2021*
 
-*Esto me ayudara en el futuro*
-
-Sigueme en Facebook:
-[Mi cuenta de facebook](https://www.facebook.com)
+###### Modulos:
+1. Instalación...
+2. Configuración... 
+3. Manejo..
+4. Instalación de Servicios de Red...
+5. Administración de Servicios de Red...
 
 
