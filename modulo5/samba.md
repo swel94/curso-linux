@@ -24,6 +24,17 @@ El necesitaba montar un espacio en disco en su computadora para un servidor Unix
 
 Eso hizo que el servidor Unix apareciera como un servidor de archivos Windows en su PC con DOS. ## Instalacion ## Configuracion ## Desinstalacion [^1]: Server Message Block [^2]: Network Basic Input/Output System [^3]: Pequeño programa para captura de tráfico de datos en red. 
 
+
+### Configuracion Samba
+
+#### Cómo instalar Samba en Ubuntu 21.04:
+
+**1. Comprobamos la version de ubunto utilizando el siguiente comando:**
+```bash
+$ lsb _releasae -a
+```
+**2. Ahora actualizamos el sistema con el comando:**
+
 [^1]: Server Message Block 
 [^2]: Network Basic Input/Output System 
 [^3]: Pequeño programa para captura de tráfico de datos en red
